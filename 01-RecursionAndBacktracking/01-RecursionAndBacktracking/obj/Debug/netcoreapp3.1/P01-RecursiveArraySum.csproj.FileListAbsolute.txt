@@ -1,0 +1,12 @@
+C:\Users\Petko Pedev\source\AlgorithmsRepo\01-RecursionAndBacktracking\01-RecursionAndBacktracking\bin\Debug\netcoreapp3.1\P01-RecursiveArraySum.exe
+C:\Users\Petko Pedev\source\AlgorithmsRepo\01-RecursionAndBacktracking\01-RecursionAndBacktracking\bin\Debug\netcoreapp3.1\P01-RecursiveArraySum.deps.json
+C:\Users\Petko Pedev\source\AlgorithmsRepo\01-RecursionAndBacktracking\01-RecursionAndBacktracking\bin\Debug\netcoreapp3.1\P01-RecursiveArraySum.runtimeconfig.json
+C:\Users\Petko Pedev\source\AlgorithmsRepo\01-RecursionAndBacktracking\01-RecursionAndBacktracking\bin\Debug\netcoreapp3.1\P01-RecursiveArraySum.runtimeconfig.dev.json
+C:\Users\Petko Pedev\source\AlgorithmsRepo\01-RecursionAndBacktracking\01-RecursionAndBacktracking\bin\Debug\netcoreapp3.1\P01-RecursiveArraySum.dll
+C:\Users\Petko Pedev\source\AlgorithmsRepo\01-RecursionAndBacktracking\01-RecursionAndBacktracking\bin\Debug\netcoreapp3.1\P01-RecursiveArraySum.pdb
+C:\Users\Petko Pedev\source\AlgorithmsRepo\01-RecursionAndBacktracking\01-RecursionAndBacktracking\obj\Debug\netcoreapp3.1\P01-RecursiveArraySum.AssemblyInfoInputs.cache
+C:\Users\Petko Pedev\source\AlgorithmsRepo\01-RecursionAndBacktracking\01-RecursionAndBacktracking\obj\Debug\netcoreapp3.1\P01-RecursiveArraySum.AssemblyInfo.cs
+C:\Users\Petko Pedev\source\AlgorithmsRepo\01-RecursionAndBacktracking\01-RecursionAndBacktracking\obj\Debug\netcoreapp3.1\P01-RecursiveArraySum.csproj.CoreCompileInputs.cache
+C:\Users\Petko Pedev\source\AlgorithmsRepo\01-RecursionAndBacktracking\01-RecursionAndBacktracking\obj\Debug\netcoreapp3.1\P01-RecursiveArraySum.dll
+C:\Users\Petko Pedev\source\AlgorithmsRepo\01-RecursionAndBacktracking\01-RecursionAndBacktracking\obj\Debug\netcoreapp3.1\P01-RecursiveArraySum.pdb
+C:\Users\Petko Pedev\source\AlgorithmsRepo\01-RecursionAndBacktracking\01-RecursionAndBacktracking\obj\Debug\netcoreapp3.1\P01-RecursiveArraySum.genruntimeconfig.cache
