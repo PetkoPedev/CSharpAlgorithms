@@ -1,4 +1,5 @@
 ﻿using System;
+using System.Linq;
 
 namespace _01_RecursionAndBacktracking
 {
@@ -6,7 +7,7 @@ namespace _01_RecursionAndBacktracking
     {
         public static void Main(string[] args)
         {
-            var array = new[] { 1, 2, 3, 4, 5 };
+            var array = Console.ReadLine().Split().Select(int.Parse).ToArray();
 
             Console.WriteLine(CalcSum(array, 0));
         }

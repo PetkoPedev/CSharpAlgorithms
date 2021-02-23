@@ -1,0 +1,13 @@
+C:\Users\Petko Pedev\source\AlgorithmsRepo\01-RecursionAndBacktracking\P06-QueensPuzzle\bin\Debug\netcoreapp3.1\P06-QueensPuzzle.exe
+C:\Users\Petko Pedev\source\AlgorithmsRepo\01-RecursionAndBacktracking\P06-QueensPuzzle\bin\Debug\netcoreapp3.1\P06-QueensPuzzle.deps.json
+C:\Users\Petko Pedev\source\AlgorithmsRepo\01-RecursionAndBacktracking\P06-QueensPuzzle\bin\Debug\netcoreapp3.1\P06-QueensPuzzle.runtimeconfig.json
+C:\Users\Petko Pedev\source\AlgorithmsRepo\01-RecursionAndBacktracking\P06-QueensPuzzle\bin\Debug\netcoreapp3.1\P06-QueensPuzzle.runtimeconfig.dev.json
+C:\Users\Petko Pedev\source\AlgorithmsRepo\01-RecursionAndBacktracking\P06-QueensPuzzle\bin\Debug\netcoreapp3.1\P06-QueensPuzzle.dll
+C:\Users\Petko Pedev\source\AlgorithmsRepo\01-RecursionAndBacktracking\P06-QueensPuzzle\bin\Debug\netcoreapp3.1\P06-QueensPuzzle.pdb
+C:\Users\Petko Pedev\source\AlgorithmsRepo\01-RecursionAndBacktracking\P06-QueensPuzzle\obj\Debug\netcoreapp3.1\P06-QueensPuzzle.csprojAssemblyReference.cache
+C:\Users\Petko Pedev\source\AlgorithmsRepo\01-RecursionAndBacktracking\P06-QueensPuzzle\obj\Debug\netcoreapp3.1\P06-QueensPuzzle.AssemblyInfoInputs.cache
+C:\Users\Petko Pedev\source\AlgorithmsRepo\01-RecursionAndBacktracking\P06-QueensPuzzle\obj\Debug\netcoreapp3.1\P06-QueensPuzzle.AssemblyInfo.cs
+C:\Users\Petko Pedev\source\AlgorithmsRepo\01-RecursionAndBacktracking\P06-QueensPuzzle\obj\Debug\netcoreapp3.1\P06-QueensPuzzle.csproj.CoreCompileInputs.cache
+C:\Users\Petko Pedev\source\AlgorithmsRepo\01-RecursionAndBacktracking\P06-QueensPuzzle\obj\Debug\netcoreapp3.1\P06-QueensPuzzle.dll
+C:\Users\Petko Pedev\source\AlgorithmsRepo\01-RecursionAndBacktracking\P06-QueensPuzzle\obj\Debug\netcoreapp3.1\P06-QueensPuzzle.pdb
+C:\Users\Petko Pedev\source\AlgorithmsRepo\01-RecursionAndBacktracking\P06-QueensPuzzle\obj\Debug\netcoreapp3.1\P06-QueensPuzzle.genruntimeconfig.cache

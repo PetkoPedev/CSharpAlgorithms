@@ -1,0 +1,13 @@
+C:\Users\Petko Pedev\source\AlgorithmsRepo\01-RecursionAndBacktracking\P05-RecursiveFactorial\bin\Debug\netcoreapp3.1\P04-RecursiveFactorial.exe
+C:\Users\Petko Pedev\source\AlgorithmsRepo\01-RecursionAndBacktracking\P05-RecursiveFactorial\bin\Debug\netcoreapp3.1\P04-RecursiveFactorial.deps.json
+C:\Users\Petko Pedev\source\AlgorithmsRepo\01-RecursionAndBacktracking\P05-RecursiveFactorial\bin\Debug\netcoreapp3.1\P04-RecursiveFactorial.runtimeconfig.json
+C:\Users\Petko Pedev\source\AlgorithmsRepo\01-RecursionAndBacktracking\P05-RecursiveFactorial\bin\Debug\netcoreapp3.1\P04-RecursiveFactorial.runtimeconfig.dev.json
+C:\Users\Petko Pedev\source\AlgorithmsRepo\01-RecursionAndBacktracking\P05-RecursiveFactorial\bin\Debug\netcoreapp3.1\P04-RecursiveFactorial.dll
+C:\Users\Petko Pedev\source\AlgorithmsRepo\01-RecursionAndBacktracking\P05-RecursiveFactorial\bin\Debug\netcoreapp3.1\P04-RecursiveFactorial.pdb
+C:\Users\Petko Pedev\source\AlgorithmsRepo\01-RecursionAndBacktracking\P05-RecursiveFactorial\obj\Debug\netcoreapp3.1\P04-RecursiveFactorial.csprojAssemblyReference.cache
+C:\Users\Petko Pedev\source\AlgorithmsRepo\01-RecursionAndBacktracking\P05-RecursiveFactorial\obj\Debug\netcoreapp3.1\P04-RecursiveFactorial.AssemblyInfoInputs.cache
+C:\Users\Petko Pedev\source\AlgorithmsRepo\01-RecursionAndBacktracking\P05-RecursiveFactorial\obj\Debug\netcoreapp3.1\P04-RecursiveFactorial.AssemblyInfo.cs
+C:\Users\Petko Pedev\source\AlgorithmsRepo\01-RecursionAndBacktracking\P05-RecursiveFactorial\obj\Debug\netcoreapp3.1\P04-RecursiveFactorial.csproj.CoreCompileInputs.cache
+C:\Users\Petko Pedev\source\AlgorithmsRepo\01-RecursionAndBacktracking\P05-RecursiveFactorial\obj\Debug\netcoreapp3.1\P04-RecursiveFactorial.dll
+C:\Users\Petko Pedev\source\AlgorithmsRepo\01-RecursionAndBacktracking\P05-RecursiveFactorial\obj\Debug\netcoreapp3.1\P04-RecursiveFactorial.pdb
+C:\Users\Petko Pedev\source\AlgorithmsRepo\01-RecursionAndBacktracking\P05-RecursiveFactorial\obj\Debug\netcoreapp3.1\P04-RecursiveFactorial.genruntimeconfig.cache

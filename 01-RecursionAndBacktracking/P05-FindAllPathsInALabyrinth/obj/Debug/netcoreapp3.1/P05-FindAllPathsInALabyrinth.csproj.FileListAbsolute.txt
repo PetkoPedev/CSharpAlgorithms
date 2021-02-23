@@ -1,0 +1,13 @@
+C:\Users\Petko Pedev\source\AlgorithmsRepo\01-RecursionAndBacktracking\P05-FindAllPathsInALabyrinth\bin\Debug\netcoreapp3.1\P05-FindAllPathsInALabyrinth.exe
+C:\Users\Petko Pedev\source\AlgorithmsRepo\01-RecursionAndBacktracking\P05-FindAllPathsInALabyrinth\bin\Debug\netcoreapp3.1\P05-FindAllPathsInALabyrinth.deps.json
+C:\Users\Petko Pedev\source\AlgorithmsRepo\01-RecursionAndBacktracking\P05-FindAllPathsInALabyrinth\bin\Debug\netcoreapp3.1\P05-FindAllPathsInALabyrinth.runtimeconfig.json
+C:\Users\Petko Pedev\source\AlgorithmsRepo\01-RecursionAndBacktracking\P05-FindAllPathsInALabyrinth\bin\Debug\netcoreapp3.1\P05-FindAllPathsInALabyrinth.runtimeconfig.dev.json
+C:\Users\Petko Pedev\source\AlgorithmsRepo\01-RecursionAndBacktracking\P05-FindAllPathsInALabyrinth\bin\Debug\netcoreapp3.1\P05-FindAllPathsInALabyrinth.dll
+C:\Users\Petko Pedev\source\AlgorithmsRepo\01-RecursionAndBacktracking\P05-FindAllPathsInALabyrinth\bin\Debug\netcoreapp3.1\P05-FindAllPathsInALabyrinth.pdb
+C:\Users\Petko Pedev\source\AlgorithmsRepo\01-RecursionAndBacktracking\P05-FindAllPathsInALabyrinth\obj\Debug\netcoreapp3.1\P05-FindAllPathsInALabyrinth.csprojAssemblyReference.cache
+C:\Users\Petko Pedev\source\AlgorithmsRepo\01-RecursionAndBacktracking\P05-FindAllPathsInALabyrinth\obj\Debug\netcoreapp3.1\P05-FindAllPathsInALabyrinth.AssemblyInfoInputs.cache
+C:\Users\Petko Pedev\source\AlgorithmsRepo\01-RecursionAndBacktracking\P05-FindAllPathsInALabyrinth\obj\Debug\netcoreapp3.1\P05-FindAllPathsInALabyrinth.AssemblyInfo.cs
+C:\Users\Petko Pedev\source\AlgorithmsRepo\01-RecursionAndBacktracking\P05-FindAllPathsInALabyrinth\obj\Debug\netcoreapp3.1\P05-FindAllPathsInALabyrinth.csproj.CoreCompileInputs.cache
+C:\Users\Petko Pedev\source\AlgorithmsRepo\01-RecursionAndBacktracking\P05-FindAllPathsInALabyrinth\obj\Debug\netcoreapp3.1\P05-FindAllPathsInALabyrinth.dll
+C:\Users\Petko Pedev\source\AlgorithmsRepo\01-RecursionAndBacktracking\P05-FindAllPathsInALabyrinth\obj\Debug\netcoreapp3.1\P05-FindAllPathsInALabyrinth.pdb
+C:\Users\Petko Pedev\source\AlgorithmsRepo\01-RecursionAndBacktracking\P05-FindAllPathsInALabyrinth\obj\Debug\netcoreapp3.1\P05-FindAllPathsInALabyrinth.genruntimeconfig.cache
