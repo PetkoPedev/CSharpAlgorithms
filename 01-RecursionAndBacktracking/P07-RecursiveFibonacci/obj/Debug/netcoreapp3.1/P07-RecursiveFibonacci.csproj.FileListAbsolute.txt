@@ -1,0 +1,12 @@
+C:\Users\Petko Pedev\source\AlgorithmsRepo\01-RecursionAndBacktracking\P07-RecursiveFibonacci\bin\Debug\netcoreapp3.1\P07-RecursiveFibonacci.exe
+C:\Users\Petko Pedev\source\AlgorithmsRepo\01-RecursionAndBacktracking\P07-RecursiveFibonacci\bin\Debug\netcoreapp3.1\P07-RecursiveFibonacci.deps.json
+C:\Users\Petko Pedev\source\AlgorithmsRepo\01-RecursionAndBacktracking\P07-RecursiveFibonacci\bin\Debug\netcoreapp3.1\P07-RecursiveFibonacci.runtimeconfig.json
+C:\Users\Petko Pedev\source\AlgorithmsRepo\01-RecursionAndBacktracking\P07-RecursiveFibonacci\bin\Debug\netcoreapp3.1\P07-RecursiveFibonacci.runtimeconfig.dev.json
+C:\Users\Petko Pedev\source\AlgorithmsRepo\01-RecursionAndBacktracking\P07-RecursiveFibonacci\bin\Debug\netcoreapp3.1\P07-RecursiveFibonacci.dll
+C:\Users\Petko Pedev\source\AlgorithmsRepo\01-RecursionAndBacktracking\P07-RecursiveFibonacci\bin\Debug\netcoreapp3.1\P07-RecursiveFibonacci.pdb
+C:\Users\Petko Pedev\source\AlgorithmsRepo\01-RecursionAndBacktracking\P07-RecursiveFibonacci\obj\Debug\netcoreapp3.1\P07-RecursiveFibonacci.AssemblyInfoInputs.cache
+C:\Users\Petko Pedev\source\AlgorithmsRepo\01-RecursionAndBacktracking\P07-RecursiveFibonacci\obj\Debug\netcoreapp3.1\P07-RecursiveFibonacci.AssemblyInfo.cs
+C:\Users\Petko Pedev\source\AlgorithmsRepo\01-RecursionAndBacktracking\P07-RecursiveFibonacci\obj\Debug\netcoreapp3.1\P07-RecursiveFibonacci.csproj.CoreCompileInputs.cache
+C:\Users\Petko Pedev\source\AlgorithmsRepo\01-RecursionAndBacktracking\P07-RecursiveFibonacci\obj\Debug\netcoreapp3.1\P07-RecursiveFibonacci.dll
+C:\Users\Petko Pedev\source\AlgorithmsRepo\01-RecursionAndBacktracking\P07-RecursiveFibonacci\obj\Debug\netcoreapp3.1\P07-RecursiveFibonacci.pdb
+C:\Users\Petko Pedev\source\AlgorithmsRepo\01-RecursionAndBacktracking\P07-RecursiveFibonacci\obj\Debug\netcoreapp3.1\P07-RecursiveFibonacci.genruntimeconfig.cache
